@@ -7,7 +7,7 @@ import userRoutes from "./routes/userRoutes.js";
 import tourRoutes from "./routes/tourRoutes.js";
 import reviewRoutes from "./routes/reviewRoutes.js";
 import bookingRoutes from "./routes/bookingRoutes.js";
-import dotenv from "dotenv";
+import dotenv from "dotenv";   
 import cookieParser from "cookie-parser";
 
 dotenv.config();
